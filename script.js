@@ -34,6 +34,41 @@ const quizData = [
         C: "yet they",
         D: "yet they are",
         correct: "D"
+    }, {
+        question: "According to the hypothesis in the study, the monarchs pick up the magnetic field of the ____ migrate by following magnetic fields",
+        A: "target monarchs",
+        B: "target since monarchs",
+        C: "target since monarchs are",
+        D: "target",
+        correct: "B"
+    }, {
+        question: "_____ show the relations among neurons, they do not preclude the possibility that other aspects are important.",
+        A: "Neural theories",
+        B: "A neural theory",
+        C: "Although neural theories",
+        D: "However neural theories",
+        correct: "C"
+    }, {
+        question: "_____ or refinanced, the lender will generally require setting up an escow account to ensure the payment of property taxes and homeowner's insurance.",
+        A: "A home is",
+        B: "A home is bought",
+        C: "When a home",
+        D: "When a home is bought",
+        correct: "D"
+    }, {
+        question: "If ultraviolet radiation enters the Earth's atmosphere, _____ generally blocked by the ozone concentrated in the atmosphere.",
+        A: "it",
+        B: "it is",
+        C: "so it is",
+        D: "then it",
+        correct: "B"
+    }, {
+        question: "Among human chromosomes, the Y chromosome is unusual _____ most of the chromosome does not participate in meiotic recombination.",
+        A: "in",
+        B: "so",
+        C: "and",
+        D: "in that",
+        correct: "D"
     }
 ];
 
